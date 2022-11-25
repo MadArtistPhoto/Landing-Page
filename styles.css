@@ -4,3 +4,18 @@ body{
     background-color: cornsilk;
     color: blueviolet;
 }
+
+a
+{
+    text-decoration: none;
+    padding: 5px;
+    color:whitesmoke;
+    background-color: yellow;
+	color: black;
+    border-radius: 5px;
+}
+
+p
+{
+    margin: 1rem;
+}
