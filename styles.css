@@ -1,21 +1,31 @@
 /** styles.css **/
 
+
+:root
+{
+    padding: 0px;
+    margin: 0px;
+}
+
 body{
-    background-color: cornsilk;
-    color: blueviolet;
+    background-color: ghostwhite;
+    color: black;
 }
 
 a
 {
-    text-decoration: none;
-    padding: 5px;
-    color:whitesmoke;
-    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
 	color: black;
-    border-radius: 5px;
 }
 
 p
 {
     margin: 1rem;
+}
+
+.center
+{
+    text-align: center;
 }
