@@ -1,0 +1,35 @@
+/** styles.css **/
+
+
+:root
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#container
+{
+    width: 100vw;
+    height: 100vh;
+    background-color: ghostwhite;
+    color: black;
+}
+
+a
+{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+	color: black;
+}
+
+p
+{
+    margin: 1rem;
+}
+
+.center
+{
+    text-align: center;
+}
